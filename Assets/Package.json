@@ -1,0 +1,10 @@
+{
+  "name": "com.landmark.unitypluginnotificationsample",
+  "version": "0.0.1",
+  "displayName": "Notification Sample",
+  "description": "A plugin to help use the local notification package.",
+  "unity": "2021.3",
+  "keywords": [
+    "Notification"
+  ]
+}
