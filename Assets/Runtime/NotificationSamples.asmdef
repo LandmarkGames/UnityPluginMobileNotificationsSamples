@@ -1,10 +1,10 @@
 {
   "name": "NotificationSamples",
   "references": [
-    "Unity.Notifications"
+    "Unity.Notifications.Android",
+    "NotificationSamples.Android"
   ],
   "optionalUnityReferences": [],
-  "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
   "overrideReferences": false,
