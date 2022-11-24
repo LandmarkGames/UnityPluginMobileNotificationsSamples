@@ -1,10 +1,13 @@
 {
   "name": "NotificationSamples.iOS",
-  "optionalUnityReferences": [],
+  "references": [
+    "Unity.Notifications"
+  ],
   "includePlatforms": [
     "Editor",
     "iOS"
   ],
+  "optionalUnityReferences": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
   "overrideReferences": false,

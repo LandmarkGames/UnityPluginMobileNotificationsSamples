@@ -1,5 +1,8 @@
 {
   "name": "NotificationSamples",
+  "references": [
+    "Unity.Notifications"
+  ],
   "optionalUnityReferences": [],
   "includePlatforms": [],
   "excludePlatforms": [],
