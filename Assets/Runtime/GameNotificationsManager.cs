@@ -176,7 +176,7 @@ namespace NotificationSamples
         /// <summary>
         /// Respond to application foreground/background events.
         /// </summary>
-        protected void OnApplicationFocus(bool hasFocus)
+        public void ManualOnApplicationFocus(bool hasFocus)
         {
             if (Platform == null || !Initialized)
             {
