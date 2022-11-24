@@ -1,8 +1,8 @@
 {
-  "name": "com.landmark.unitypluginnotificationsample",
+  "name": "com.landmark.mobilenotificationssamples",
   "version": "0.0.1",
-  "displayName": "Notification Sample",
-  "description": "A plugin to help use the local notification package.",
+  "displayName": "Mobile Notifications Samples",
+  "description": "A plugin to help use the mobile notifications package.",
   "unity": "2021.3",
   "keywords": [
     "Notification"
