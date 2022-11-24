@@ -1,16 +1,15 @@
 {
-    "name": "NotificationSamples.Android",
-    "references": [],
-    "optionalUnityReferences": [],
-    "includePlatforms": [
-        "Android",
-        "Editor"
-    ],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
-    "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": []
+  "name": "NotificationSamples.Android",
+  "optionalUnityReferences": [],
+  "includePlatforms": [
+    "Editor",
+    "Android"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": []
 }
