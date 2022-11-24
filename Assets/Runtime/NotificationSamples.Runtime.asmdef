@@ -1,5 +1,5 @@
 {
-    "name": "MobileNotificationsSamples.Runtime",
+    "name": "NotificationSamples.Runtime",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
