@@ -2,6 +2,7 @@
   "name": "NotificationSamples",
   "references": [
     "Unity.Notifications.Android",
+    "Unity.Notifications.iOS",
     "NotificationSamples.Android"
   ],
   "optionalUnityReferences": [],
